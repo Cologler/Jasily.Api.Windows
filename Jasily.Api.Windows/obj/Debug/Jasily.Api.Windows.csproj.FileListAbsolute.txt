@@ -1,0 +1,7 @@
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\bin\Debug\Jasily.Api.Windows.dll
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\bin\Debug\Jasily.Api.Windows.pdb
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\bin\Debug\JetBrains.Annotations.dll
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\bin\Debug\JetBrains.Annotations.xml
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\obj\Debug\Jasily.Api.Windows.csprojResolveAssemblyReference.cache
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\obj\Debug\Jasily.Api.Windows.dll
+C:\Users\巍\Documents\Visual Studio 2015\Projects\EvernoteMarkdownHook\Jasily.Api.Windows\Jasily.Api.Windows\obj\Debug\Jasily.Api.Windows.pdb
